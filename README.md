@@ -17,7 +17,7 @@ This repository accompanies the research paper submitted to the **AgentX Competi
 ## 📄 Paper
 
 The full PDF paper is available here:  
-[`LLM - Investigating AI Deception & Trustworthiness in LLM Agents.pdf`](./LLM%20-%20Investigating%20AI%20Deception%20&%20Trustworthiness%20in%20LLM%20Agents.pdf)
+https://drive.google.com/file/d/1B6xVnXVF1cdS9UoRlB9MzY5j8dRkonhg/view?usp=sharing
 
 ---
 
